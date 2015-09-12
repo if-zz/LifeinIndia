@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <com.test.administrator.broadcastbestpractice.TitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></com.test.administrator.broadcastbestpractice.TitleLayout>
+
+
+    <Button
+        android:id="@+id/open_the_news"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textAllCaps="false"
+        android:text="在印度的日子里"/>
+    <Button
+        android:id="@+id/beautiful_sights"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textAllCaps="false"
+        android:text="印度的名胜古迹"/>
+    <Button
+        android:id="@+id/force_offline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textAllCaps="false"
+        android:text="退出登录"/>
+</LinearLayout>

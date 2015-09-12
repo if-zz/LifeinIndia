@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/accent_material_light"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<!--返回到上一界面-->
+    <Button
+    android:id="@+id/title_back"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="5dip"
+    android:background="@color/accent_material_light"
+    android:text="＜"
+    android:textColor="#fff"
+    android:textSize="30sp"
+    android:textAllCaps="false"/>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="印度那些事"
+        android:textColor="#fff"
+        android:textSize="22sp"/>
+
+    <!-- 用于回到主选择界面-->
+    <Button
+        android:id="@+id/more"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dip"
+        android:background="@color/accent_material_light"
+        android:textAllCaps="false"
+        android:textSize="30sp"
+        android:text="..."
+        android:textColor="#fff"/>
+
+</LinearLayout>
