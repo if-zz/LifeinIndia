@@ -6,4 +6,4 @@ now I hava almost finished it.
   the app doesn't have all the data about the life in India,because I have to learn a quickly and convenint way to add the 
 data into the app.
 PS: to login in: the account number is "admin",the pass word is 123456
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+
