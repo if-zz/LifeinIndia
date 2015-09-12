@@ -10,4 +10,7 @@ PS: to login in: the account number is "admin",the pass word is 123456
 ![qq 20150830122841](https://cloud.githubusercontent.com/assets/13035914/9832651/9efa378a-59b4-11e5-948f-269f9e0143fd.png)
 ![qq 20150830124158](https://cloud.githubusercontent.com/assets/13035914/9832650/9ef7e534-59b4-11e5-9a91-66719f93430c.png)
 ![qq 20150830131149](https://cloud.githubusercontent.com/assets/13035914/9832652/9f0433e8-59b4-11e5-9c1b-fd465016ebd2.png)
+![1](https://cloud.githubusercontent.com/assets/13035914/9832669/08b0d7f6-59b5-11e5-9dc6-9e58cbacac50.png)
+![2](https://cloud.githubusercontent.com/assets/13035914/9832668/08afb132-59b5-11e5-9764-197662d40cab.png)
+![3](https://cloud.githubusercontent.com/assets/13035914/9832670/08df868c-59b5-11e5-9d98-8dc9d09bde0f.png)
 
